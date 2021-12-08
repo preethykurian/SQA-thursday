@@ -1,2 +1,4 @@
 string customer name, int phone, string address
 read customer name, phone, address
+
+display the user information
