@@ -1,2 +1,5 @@
 string customer name, int phone, string address
 read customer name, phone, address
+read order,
+if order> 1000 then 
+display 10% disocunt
