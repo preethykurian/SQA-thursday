@@ -1,2 +1,4 @@
 string customer name, int phone, string address
 read customer name, phone, address
+read supplier name
+add supplier to the contact list
